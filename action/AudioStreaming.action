@@ -1,0 +1,9 @@
+#Goal
+clf_audio_msgs/AudioInfo info
+clf_audio_msgs/AudioData data
+---
+#Result
+clf_ue_audio_streaming_msgs/ReturnCode return_code
+---
+#Feedback
+clf_ue_audio_streaming_msgs/CurrentStatus status
